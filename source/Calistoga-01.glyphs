@@ -5,7 +5,11 @@ DisplayStrings = (
 "/Acircumflextilde",
 "/fi",
 "/f_f",
-"/f_f ff\012/f_f_i ffi\012/f_f_l/fi fiifihil\012/fl flflh"
+"/f_f ff\012/f_f_i ffi\012/f_f_l/fi fiifihil\012/fl flflh",
+"A/Acircumflexhookabove",
+"A/circumflexcomb.case A/Acircumflexhookabove \012AARON",
+"/Acircumflexhookabove",
+"/f_f  /f_f_i  /f_f_l  /fi  /fl  lf lili\012flf/lacute f/lcaron f/lcommaaccent f/ldot f/ldotbelow f/lj f/llinebelow flf/idotless fíf/ibreve fîf/idblgrave fïf/idieresisacute f/idotaccent f/idotbelow fìf/ihookabove f/iinvertedbreve f/imacron f/iogonek f/itilde fi ffi Ufl fi fl il"
 );
 classes = (
 {
@@ -41,7 +45,7 @@ code = "zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seve
 name = denominators;
 }
 );
-copyright = "Copyright 2019 The Familyname Project Authors (https://github.com/SorkinType/Calistoga)";
+copyright = "Copyright 2019 The Calistoga Project Authors (https://github.com/SorkinType/Calistoga)";
 customParameters = (
 {
 name = description;
@@ -654,7 +658,7 @@ unicode = 1EA6;
 },
 {
 glyphname = Acircumflexhookabove;
-lastChange = "2018-06-18 17:05:09 +0000";
+lastChange = "2019-08-21 04:01:32 +0000";
 layers = (
 {
 components = (
@@ -4294,7 +4298,7 @@ unicode = 1E42;
 },
 {
 glyphname = N;
-lastChange = "2018-06-18 17:05:09 +0000";
+lastChange = "2019-08-21 03:59:03 +0000";
 layers = (
 {
 anchors = (
@@ -4312,7 +4316,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"490 50 LINE",
+"490 50 LINE SMOOTH",
 "515 13 OFFCURVE",
 "537 -6 OFFCURVE",
 "606 -6 CURVE SMOOTH",
@@ -4332,7 +4336,7 @@ nodes = (
 "527 621 OFFCURVE",
 "527 584 CURVE SMOOTH",
 "527 254 LINE",
-"300 613 LINE",
+"300 613 LINE SMOOTH",
 "266 666 OFFCURVE",
 "226 698 OFFCURVE",
 "187 698 CURVE SMOOTH",
@@ -10517,7 +10521,7 @@ unicode = 0259;
 {
 color = 1;
 glyphname = f;
-lastChange = "2019-08-13 14:28:57 +0000";
+lastChange = "2019-08-21 14:19:32 +0000";
 layers = (
 {
 anchors = (
@@ -11112,7 +11116,7 @@ unicode = 1E25;
 },
 {
 glyphname = i;
-lastChange = "2019-08-13 03:44:08 +0000";
+lastChange = "2019-08-21 04:12:59 +0000";
 layers = (
 {
 anchors = (
@@ -12000,7 +12004,7 @@ unicode = 0138;
 },
 {
 glyphname = l;
-lastChange = "2019-08-13 03:40:00 +0000";
+lastChange = "2019-08-21 04:16:05 +0000";
 layers = (
 {
 anchors = (
@@ -16756,7 +16760,7 @@ rightMetricsKey = l;
 },
 {
 glyphname = fi;
-lastChange = "2019-08-13 14:27:32 +0000";
+lastChange = "2019-08-21 04:12:52 +0000";
 layers = (
 {
 anchors = (
@@ -16771,11 +16775,11 @@ name = f;
 },
 {
 name = i;
-transform = "{1, 0, 0, 1, 364, 0}";
+transform = "{1, 0, 0, 1, 370, 0}";
 }
 );
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
-width = 676;
+width = 682;
 }
 );
 leftKerningGroup = f;
@@ -33929,6 +33933,15 @@ width = 178;
 );
 leftKerningGroup = caronvertical;
 rightKerningGroup = caronvertical;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
+width = 600;
+}
+);
 }
 );
 instances = (
@@ -34096,7 +34109,7 @@ kerning = {
 "@MMK_R_a" = -20;
 "@MMK_R_colon" = -20;
 "@MMK_R_eth" = -20;
-"@MMK_R_f" = -10;
+"@MMK_R_f" = 0;
 "@MMK_R_g" = -20;
 "@MMK_R_h" = -20;
 "@MMK_R_i" = -10;
@@ -34302,6 +34315,7 @@ kerning = {
 "@MMK_R_bracketright" = 60;
 "@MMK_R_eight.numr" = 40;
 "@MMK_R_exclam" = 50;
+"@MMK_R_f" = -10;
 "@MMK_R_four.numr" = 20;
 "@MMK_R_g" = -10;
 "@MMK_R_hyphen" = -30;
@@ -34328,7 +34342,6 @@ idblgrave = 20;
 idieresis = 20;
 ihookabove = 35;
 itilde = 10;
-"@MMK_R_f" = 0;
 };
 "@MMK_L_four" = {
 "@MMK_R_asterisk" = -50;
@@ -34371,6 +34384,7 @@ itilde = 10;
 "@MMK_R_colon" = -10;
 "@MMK_R_f" = -10;
 "@MMK_R_quotedblleft" = 30;
+"@MMK_R_l" = -7;
 };
 "@MMK_L_j" = {
 "@MMK_R_colon" = -10;
@@ -34387,7 +34401,7 @@ itilde = 10;
 };
 "@MMK_L_l" = {
 "@MMK_R_colon" = -10;
-"@MMK_R_f" = 0;
+"@MMK_R_f" = -10;
 "@MMK_R_o" = -20;
 };
 "@MMK_L_lslash" = {
@@ -34610,15 +34624,8 @@ fraction = -60;
 "@MMK_R_period" = -20;
 };
 f = {
-"@MMK_R_i" = 4;
 "@MMK_R_l" = -2;
-"@MMK_R_f" = -10;
-};
-i = {
-"@MMK_R_l" = -7;
-};
-l = {
-"@MMK_R_f" = -10;
+"@MMK_R_i" = 10;
 };
 };
 };
