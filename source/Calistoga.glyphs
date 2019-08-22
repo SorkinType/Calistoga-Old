@@ -33928,6 +33928,15 @@ width = 178;
 );
 leftKerningGroup = caronvertical;
 rightKerningGroup = caronvertical;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
+width = 600;
+}
+);
 }
 );
 instances = (
