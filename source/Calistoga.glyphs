@@ -1,5 +1,5 @@
 {
-.appVersion = "1260";
+.appVersion = "1230";
 DisplayStrings = (
 h,
 "/hcircumflex",
@@ -16,7 +16,8 @@ h,
 "/brevecomb_tildecomb.case/Abrevetilde",
 "/circumflexcomb_hookabovecomb.case/Acircumflexhookabove",
 "/circumflexcomb_tildecomb.case/Acircumflextilde",
-"/Abrevehookabove"
+"/Abrevehookabove",
+"/f_f  /f_f_i  /f_f_l  /fi  /fl \012ff ffi ffl fi fl"
 );
 classes = (
 {
@@ -52,7 +53,7 @@ code = "zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seve
 name = denominators;
 }
 );
-copyright = "Copyright (c) 2018, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Calistoga'.";
+copyright = "Copyright 2019 The Calistoga Project Authors (https://github.com/SorkinType/Calistoga)";
 customParameters = (
 {
 name = description;
@@ -80,7 +81,7 @@ value = (
 );
 }
 );
-date = "2018-06-18 19:31:34 +0000";
+date = "2019-08-22 19:31:09 +0000";
 designer = "Yvonne Schuttler, Eben Sorkin";
 designerURL = www.sorkintype.com;
 familyName = Calistoga;
@@ -10516,7 +10517,7 @@ unicode = 0259;
 {
 color = 1;
 glyphname = f;
-lastChange = "2018-06-18 17:18:49 +0000";
+lastChange = "2019-08-22 19:38:23 +0000";
 layers = (
 {
 anchors = (
@@ -11111,7 +11112,7 @@ unicode = 1E25;
 },
 {
 glyphname = i;
-lastChange = "2018-06-18 18:00:41 +0000";
+lastChange = "2019-08-22 19:37:58 +0000";
 layers = (
 {
 anchors = (
@@ -16493,13 +16494,17 @@ unicode = 1E93;
 },
 {
 glyphname = f_f;
-lastChange = "2018-06-18 17:05:09 +0000";
+lastChange = "2019-08-22 19:35:24 +0000";
 layers = (
 {
 anchors = (
 {
 name = btm;
 position = "{198, 0}";
+},
+{
+name = caret_1;
+position = "{367, 0}";
 },
 {
 name = top;
@@ -16685,9 +16690,19 @@ unicode = FB00;
 },
 {
 glyphname = f_f_i;
-lastChange = "2018-06-18 17:05:09 +0000";
+lastChange = "2019-08-22 19:35:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{363, 0}";
+},
+{
+name = caret_2;
+position = "{732, 0}";
+}
+);
 components = (
 {
 name = f_f;
@@ -16708,9 +16723,19 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2018-06-18 17:05:09 +0000";
+lastChange = "2019-08-22 19:35:42 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{364, 0}";
+},
+{
+name = caret_2;
+position = "{731, 0}";
+}
+);
 components = (
 {
 name = f_f;
@@ -16731,9 +16756,15 @@ rightMetricsKey = l;
 },
 {
 glyphname = fi;
-lastChange = "2018-06-18 17:05:09 +0000";
+lastChange = "2019-08-22 19:35:49 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{360, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -16753,9 +16784,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2018-06-18 17:05:09 +0000";
+lastChange = "2019-08-22 19:35:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{358, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -34264,6 +34301,7 @@ kerning = {
 "@MMK_R_bracketright" = 60;
 "@MMK_R_eight.numr" = 40;
 "@MMK_R_exclam" = 50;
+"@MMK_R_f" = 0;
 "@MMK_R_four.numr" = 20;
 "@MMK_R_g" = -10;
 "@MMK_R_hyphen" = -30;
