@@ -15,7 +15,8 @@ h,
 "/one.tf",
 "/six.tosf",
 "/one.tf",
-"/one.tosf"
+"/one.tosf",
+"o/three.osf o/two.tosf o/three.tosf o"
 );
 classes = (
 {
@@ -18621,7 +18622,7 @@ rightKerningGroup = two.osf;
 },
 {
 glyphname = three.osf;
-lastChange = "2019-08-30 13:53:22 +0000";
+lastChange = "2019-08-30 17:55:02 +0000";
 layers = (
 {
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -18632,20 +18633,20 @@ nodes = (
 "539 557 OFFCURVE",
 "429 617 OFFCURVE",
 "301 617 CURVE SMOOTH",
-"182 617 OFFCURVE",
-"67 564 OFFCURVE",
-"67 473 CURVE SMOOTH",
-"67 426 OFFCURVE",
-"95 392 OFFCURVE",
-"145 392 CURVE SMOOTH",
-"194 392 OFFCURVE",
-"219 425 OFFCURVE",
-"219 455 CURVE SMOOTH",
-"219 481 OFFCURVE",
-"200 503 OFFCURVE",
-"183 510 CURVE",
-"203 535 OFFCURVE",
-"243 546 OFFCURVE",
+"187 617 OFFCURVE",
+"72 564 OFFCURVE",
+"72 473 CURVE SMOOTH",
+"72 426 OFFCURVE",
+"100 392 OFFCURVE",
+"150 392 CURVE SMOOTH",
+"199 392 OFFCURVE",
+"224 425 OFFCURVE",
+"224 455 CURVE SMOOTH",
+"224 481 OFFCURVE",
+"205 503 OFFCURVE",
+"188 510 CURVE",
+"208 535 OFFCURVE",
+"248 546 OFFCURVE",
 "265 546 CURVE SMOOTH",
 "318 546 OFFCURVE",
 "362 506 OFFCURVE",
@@ -18672,30 +18673,30 @@ nodes = (
 "407 154 OFFCURVE",
 "407 85 CURVE SMOOTH",
 "407 15 OFFCURVE",
-"343 -37 OFFCURVE",
-"275 -37 CURVE SMOOTH",
-"246 -37 OFFCURVE",
-"196 -25 OFFCURVE",
-"180 -10 CURVE",
-"200 7 OFFCURVE",
-"207 33 OFFCURVE",
-"207 51 CURVE SMOOTH",
-"207 87 OFFCURVE",
-"178 115 OFFCURVE",
-"133 115 CURVE SMOOTH",
-"88 115 OFFCURVE",
-"53 88 OFFCURVE",
-"53 33 CURVE SMOOTH",
-"53 -61 OFFCURVE",
-"171 -118 OFFCURVE",
-"300 -118 CURVE SMOOTH",
-"462 -118 OFFCURVE",
+"340 -37 OFFCURVE",
+"272 -37 CURVE SMOOTH",
+"243 -37 OFFCURVE",
+"193 -25 OFFCURVE",
+"177 -10 CURVE",
+"197 7 OFFCURVE",
+"204 33 OFFCURVE",
+"204 51 CURVE SMOOTH",
+"204 87 OFFCURVE",
+"175 115 OFFCURVE",
+"130 115 CURVE SMOOTH",
+"85 115 OFFCURVE",
+"50 88 OFFCURVE",
+"50 33 CURVE SMOOTH",
+"50 -61 OFFCURVE",
+"168 -118 OFFCURVE",
+"297 -118 CURVE SMOOTH",
+"459 -118 OFFCURVE",
 "589 -32 OFFCURVE",
 "589 91 CURVE SMOOTH"
 );
 }
 );
-width = 640;
+width = 630;
 }
 );
 leftKerningGroup = three.osf;
@@ -19926,13 +19927,13 @@ rightKerningGroup = two.tosf;
 },
 {
 glyphname = three.tosf;
-lastChange = "2019-08-30 13:53:22 +0000";
+lastChange = "2019-08-30 17:55:39 +0000";
 layers = (
 {
 components = (
 {
 name = three.lf;
-transform = "{1, 0, 0, 1, 14, -95}";
+transform = "{1, 0, 0, 1, 10, -95}";
 }
 );
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -19940,7 +19941,6 @@ width = 630;
 }
 );
 leftKerningGroup = three.tosf;
-leftMetricsKey = three.tf;
 widthMetricsKey = three.tf;
 rightKerningGroup = three.tosf;
 },
