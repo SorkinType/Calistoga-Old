@@ -1,22 +1,19 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 h,
-"/circumflexcomb_hookabovecomb.case/Acircumflexhookabove",
-"/circumflexcomb_tildecomb.case/Acircumflextilde",
+"/Acircumflexhookabove",
+"/Acircumflextilde",
 "/Abrevehookabove",
 "Los denunciantes son usuarios de varios modelos de teléfonos móviles de ambas compañías, entre los que se encuentran los iPhone X, iPhone 8 y iPhone 7 Plus de Apple y los Galaxy S8 y Note8 de Samsung.    \012Lea: Apple pierde US$44.000 millones por la guerra comercial entre China y EE.UU.\012Los posibles efectos nocivos de la exposición a estas radiaciones, incluyen el riesgo de cáncer, daños genéticos, cambios en el aparato reproductor, déficits de memoria y desórdenes neurológicos, entre otros, según dijeron los denunciantes. 1978\012\012Disparition des abeilles : une coupable impuissance\012Brexit : l/quoteright opposition britannique tente d/quoteright empêcher une sortie sans accord\012L/quoteright autoroute urbaine qui déchire Bombay\012L/quoteright arrêté antipesticides du maire de Langouët suspendu par la justice\012S/eogonek dziowie oskar/zdotaccent ani o akcj/eogonek  przeciwá Ma/lslash gorzacie Gersdorf /zdotaccent/aogonek daj/aogonek  zado/sacute/cacute uczynienia\012Dlaczego zgin/aogonek/lslash  kolarz Bjorg Lambvrecht. Jest wynik prokuratorskiego /sacute ledztwa\012Deal to develop three high-tech agriculture projects worth $73m inked in Bình Ph/uhorn/ohorn c\012Tin tc, tin nóng,  zgin/aogonek/lslash  /dcroat c báo /dcroat in t - Tui Tr Online\012Không /dcroat/ocircumflexdotbelow i nào sút tung l/uhorn/ohornacute i tuy/ecircumflexhookabove n n/uhorntilde  Vi/ecircumflexdotbelow t Nam /ohornhookabove  Gi/ahookabove i vô /dcroat/idotbelow ch /Dcroat ông Nam Á 2019\012/Dcroat ây là ch/uhornacute c vô /dcroat/idotbelow ch hoàn toàn thuy/ecircumflexacute t ph/udotbelow c, b/ohornhookabove i các cô gái Vi/ecircumflexdotbelow t Nam /dcroat ã th/abreveacute ng t/acircumflexacute t c/ahookabove  các tr/acircumflexdotbelow n /dcroat/acircumflexacute u. Ngoài ra, các cô gái Vi/ecircumflexdotbelow t Nam /dcroat ã c/utilde ng s/ohornhookabove  h/uhorntilde u hi/ecircumflexdotbelow u s/ocircumflexacute  bàn th/abreveacute ng bàn thua v/uhorn/ohorndotbelow t tr/ocircumflexdotbelow i. Sau 5 tr/acircumflexdotbelow n, các h/odotbelow c trò HLV Mai /Dcroat/uhornacute c Chung ghi /dcroat/uhorn/ohorndotbelow c 24 bàn và ch/ihookabove  /dcroat/ecircumflexhookabove  th/uhookabove ng l/uhorn/ohornacute i m/ocircumflexdotbelow t bàn.\012/Dcroat i/ecircumflexgrave u /dcroat áng nói là bàn thua duy nh/acircumflexacute t c/uhookabove a tuy/ecircumflexhookabove n n/uhorntilde  Vi/ecircumflexdotbelow t Nam /ohornhookabove  gi/ahookabove i /dcroat/acircumflexacute u này l/adotbelow i /dcroat/ecircumflexacute n t/uhorngrave  tình hu/ocircumflexacute ng /dcroat á ph/ahookabove n l/uhorn/ohornacute i nhà c/uhookabove a h/acircumflexdotbelow u v/ecircumflexdotbelow  Tr/acircumflexgrave n Th/idotbelow  H/ocircumflexgrave ng Nhung trong tr/acircumflexdotbelow n bán k/ecircumflexacute t v/ohornacute i Philippines. Nh/uhorn  v/acircumflexdotbelow y, trong su/ocircumflexacute t gi/ahookabove i không có b/acircumflexacute t k/ygrave  chân sút c/uhookabove a /dcroat/ocircumflexdotbelow i bóng nào có th/ecircumflexhookabove  xuyên th/uhookabove ng /dcroat/uhorn/ohorndotbelow c mành l/uhorn/ohornacute i c/uhookabove a th/uhookabove  thành Kim Thanh.",
 "ð/dcroat/emacron/lslash ø",
 "Øoø",
 "LL/Lslash/lslash",
-"/zero.tf/one.tf/zero.tf/two.tf/zero.tf/three.tf/zero.tf/four.tf/zero.tf/five.tf/zero.tf/six.tf/zero.tf/seven.tf/zero.tf/eight.tf/zero.tf/nine.tf/zero.tf/zero.tf.zero/zero.tf",
-"/one.tf 1",
-"/one.tosf",
-"/one.tf",
-"/six.tosf",
-"/one.tf",
-"/one.tosf",
-"o/three.osf o/two.tosf o/three.tosf o"
+"",
+"1",
+"1  ",
+"/three.tosf",
+"/three.tosf"
 );
 classes = (
 {
@@ -18500,7 +18497,7 @@ rightKerningGroup = zero;
 },
 {
 glyphname = one.osf;
-lastChange = "2019-08-30 13:53:22 +0000";
+lastChange = "2019-08-30 17:07:16 +0000";
 layers = (
 {
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -18622,7 +18619,7 @@ rightKerningGroup = two.osf;
 },
 {
 glyphname = three.osf;
-lastChange = "2019-08-30 17:55:02 +0000";
+lastChange = "2019-08-30 13:53:22 +0000";
 layers = (
 {
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -18633,20 +18630,20 @@ nodes = (
 "539 557 OFFCURVE",
 "429 617 OFFCURVE",
 "301 617 CURVE SMOOTH",
-"187 617 OFFCURVE",
-"72 564 OFFCURVE",
-"72 473 CURVE SMOOTH",
-"72 426 OFFCURVE",
-"100 392 OFFCURVE",
-"150 392 CURVE SMOOTH",
-"199 392 OFFCURVE",
-"224 425 OFFCURVE",
-"224 455 CURVE SMOOTH",
-"224 481 OFFCURVE",
-"205 503 OFFCURVE",
-"188 510 CURVE",
-"208 535 OFFCURVE",
-"248 546 OFFCURVE",
+"182 617 OFFCURVE",
+"67 564 OFFCURVE",
+"67 473 CURVE SMOOTH",
+"67 426 OFFCURVE",
+"95 392 OFFCURVE",
+"145 392 CURVE SMOOTH",
+"194 392 OFFCURVE",
+"219 425 OFFCURVE",
+"219 455 CURVE SMOOTH",
+"219 481 OFFCURVE",
+"200 503 OFFCURVE",
+"183 510 CURVE",
+"203 535 OFFCURVE",
+"243 546 OFFCURVE",
 "265 546 CURVE SMOOTH",
 "318 546 OFFCURVE",
 "362 506 OFFCURVE",
@@ -18673,30 +18670,30 @@ nodes = (
 "407 154 OFFCURVE",
 "407 85 CURVE SMOOTH",
 "407 15 OFFCURVE",
-"340 -37 OFFCURVE",
-"272 -37 CURVE SMOOTH",
-"243 -37 OFFCURVE",
-"193 -25 OFFCURVE",
-"177 -10 CURVE",
-"197 7 OFFCURVE",
-"204 33 OFFCURVE",
-"204 51 CURVE SMOOTH",
-"204 87 OFFCURVE",
-"175 115 OFFCURVE",
-"130 115 CURVE SMOOTH",
-"85 115 OFFCURVE",
-"50 88 OFFCURVE",
-"50 33 CURVE SMOOTH",
-"50 -61 OFFCURVE",
-"168 -118 OFFCURVE",
-"297 -118 CURVE SMOOTH",
-"459 -118 OFFCURVE",
+"343 -37 OFFCURVE",
+"275 -37 CURVE SMOOTH",
+"246 -37 OFFCURVE",
+"196 -25 OFFCURVE",
+"180 -10 CURVE",
+"200 7 OFFCURVE",
+"207 33 OFFCURVE",
+"207 51 CURVE SMOOTH",
+"207 87 OFFCURVE",
+"178 115 OFFCURVE",
+"133 115 CURVE SMOOTH",
+"88 115 OFFCURVE",
+"53 88 OFFCURVE",
+"53 33 CURVE SMOOTH",
+"53 -61 OFFCURVE",
+"171 -118 OFFCURVE",
+"300 -118 CURVE SMOOTH",
+"462 -118 OFFCURVE",
 "589 -32 OFFCURVE",
 "589 91 CURVE SMOOTH"
 );
 }
 );
-width = 630;
+width = 640;
 }
 );
 leftKerningGroup = three.osf;
@@ -19927,13 +19924,13 @@ rightKerningGroup = two.tosf;
 },
 {
 glyphname = three.tosf;
-lastChange = "2019-08-30 17:55:39 +0000";
+lastChange = "2019-08-30 17:03:26 +0000";
 layers = (
 {
 components = (
 {
 name = three.lf;
-transform = "{1, 0, 0, 1, 10, -95}";
+transform = "{1, 0, 0, 1, 4, -95}";
 }
 );
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
@@ -19941,6 +19938,7 @@ width = 630;
 }
 );
 leftKerningGroup = three.tosf;
+leftMetricsKey = three.tf;
 widthMetricsKey = three.tf;
 rightKerningGroup = three.tosf;
 },
@@ -22740,9 +22738,26 @@ rightKerningGroup = anoteleia;
 },
 {
 glyphname = slash.case;
-lastChange = "2019-08-30 13:53:22 +0000";
+lastChange = "2019-08-30 17:06:44 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"66 -193 OFFCURVE",
+"110 -207 OFFCURVE",
+"135 -208 CURVE",
+"434 716 LINE",
+"414 735 OFFCURVE",
+"371 749 OFFCURVE",
+"346 750 CURVE",
+"46 -175 LINE {name = hr00;}"
+);
+}
+);
+};
 layerId = "184835E3-72D9-430C-A639-2454AC4A0BE8";
 paths = (
 {
