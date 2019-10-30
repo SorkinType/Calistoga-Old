@@ -1,5 +1,5 @@
 {
-.appVersion = "1230";
+.appVersion = "1270";
 DisplayStrings = (
 h,
 "/Acircumflexhookabove",
@@ -36,14 +36,17 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 },
 {
+automatic = 1;
 code = "zero one two three four five six seven eight nine";
 name = figures;
 },
 {
+automatic = 1;
 code = "zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr";
 name = numerators;
 },
 {
+automatic = 1;
 code = "zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom";
 name = denominators;
 }
@@ -114,7 +117,8 @@ code = "sub zero by zero.subs;\012sub one by one.subs;\012sub two by two.subs;\0
 name = subs;
 },
 {
-code = "sub zero by zero.subs;\012sub one by one.subs;\012sub two by two.subs;\012sub three by three.subs;\012sub four by four.subs;\012sub five by five.subs;\012sub six by six.subs;\012sub seven by seven.subs;\012sub eight by eight.subs;\012sub nine by nine.subs;\012\012";
+automatic = 1;
+code = "sub zero by zero.subs;\012sub one by one.subs;\012sub two by two.subs;\012sub three by three.subs;\012sub four by four.subs;\012sub five by five.subs;\012sub six by six.subs;\012sub seven by seven.subs;\012sub eight by eight.subs;\012sub nine by nine.subs;\012";
 name = sinf;
 },
 {
@@ -34216,6 +34220,7 @@ width = 600;
 );
 instances = (
 {
+interpolationWeight = 400;
 instanceInterpolations = {
 "184835E3-72D9-430C-A639-2454AC4A0BE8" = 1;
 };
