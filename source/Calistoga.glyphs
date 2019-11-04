@@ -78,6 +78,10 @@ value = "Calistoga is a trademark of Sorkin Type Co.";
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2019-08-22 19:31:09 +0000";
